@@ -1,9 +1,34 @@
-# ZAZAR
+# Table des matières
 
-## Hi there 👋
 
-### testAAA
-aabbcc
+
+
+## Présentation
+Je suis **Data Analyst**, un professionnel de l'exploitation, de l'analyse et l'interprétation de données avec une expérience en tant que responsable d'un pôle dans un bureau d'étude. Adaptable, curieux, autonome, ces nouvelles compétences ont permis de combler un manque, en tant que manager, dans l'exploitation de la data créée au quotidien, pour aider aux prise de décisions essentielles.
+
+## Compétences et langages informatiques
+* Python
+* SQL
+* PowerBI
+* Tableau Desktop
+* KNIME
+* DAX
+* Power Query
+* PowerPoint
+* Excel
+
+## Langues parlées et écrites
+* Français (Natal)
+* Anglais (Moyen)
+
+## Projets Data Analyst
+* Création et gestion d'une bdd immobilère ave SQL([lien ici](https://github.com/Jordan-Giltien/creation_gestion_bdd_immo_SQL))
+* Création d'un portfolio([lien ici](https://github.com/Jordan-Giltien/creation_potfolio))
+
+
+
+
+
 
 <!--
 **Jordan-Giltien/Jordan-Giltien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
