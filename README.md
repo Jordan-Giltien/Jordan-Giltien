@@ -22,8 +22,8 @@ Je suis **Data Analyst**, un professionnel de l'exploitation, de l'analyse et l'
 * Anglais (Moyen)
 
 ## Projets Data Analyst
-* Création et gestion d'une bdd immobilère ave SQL([lien ici](https://github.com/Jordan-Giltien/creation_gestion_bdd_immo_SQL))
-* Création d'un portfolio([lien ici](https://github.com/Jordan-Giltien/creation_potfolio))
+* Création et gestion d'une bdd immobilère ave SQL ([lien ici](https://github.com/Jordan-Giltien/creation_gestion_bdd_immo_SQL))
+* Création d'un portfolio ([lien ici](https://github.com/Jordan-Giltien/creation_potfolio))
 
 
 
