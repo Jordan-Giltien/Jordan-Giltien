@@ -25,24 +25,13 @@ Je suis **Data Analyst**, un professionnel de l'exploitation, de l'analyse et l'
 
 ## Projets Data Analyst <a name="projets-data-analyst"></a>
 * Création et gestion d'une bdd immobilère ave SQL ([lien ici](https://github.com/Jordan-Giltien/creation_gestion_bdd_immo_SQL))
+* Gestion des données d'une boutique de vin ([lien ici](https://github.com/Jordan-Giltien/gestion_donn-es_boutique_vin))
+* Création d'un dashboard avec Power BI pour une entreprise bucco-dentaire ([lien ici](https://github.com/Jordan-Giltien/creation_dashboard_powerBI))
+* Indicateurs d'égalité Femmes Hommes d'une entreprise ([lien ici](https://github.com/Jordan-Giltien/Indicateurs_egalite_H_F))
+* Analyse des ventes en ligne d'une librairie ([lien ici](https://github.com/Jordan-Giltien/Analyse_ventes_librairie))
+* Etude sur l'accès à l'eau potable dans le monde avec un dashboard Tableau Descktop ([lien ici](https://github.com/Jordan-Giltien/Etude_eau_potable))
+* Etude de marché pour la vente à l'internationnale de poulets ([lien ici](https://github.com/Jordan-Giltien/Etude_de_marche))
+* Machine learning pour la détection de faux billets ([lien ici](https://github.com/Jordan-Giltien/Detection_faux_billets))
 * Création d'un portfolio ([lien ici](https://github.com/Jordan-Giltien/creation_potfolio))
 
 
-
-
-
-
-<!--
-**Jordan-Giltien/Jordan-Giltien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
