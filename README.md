@@ -32,6 +32,6 @@ Je suis **Data Analyst**, un professionnel de l'exploitation, de l'analyse et l'
 * Etude sur l'accès à l'eau potable dans le monde avec un dashboard Tableau Descktop ([lien ici](https://github.com/Jordan-Giltien/Etude_eau_potable))
 * Etude de marché pour la vente à l'internationnale de poulets ([lien ici](https://github.com/Jordan-Giltien/Etude_de_marche))
 * Machine learning pour la détection de faux billets ([lien ici](https://github.com/Jordan-Giltien/Detection_faux_billets))
-* Création d'un portfolio ([lien ici](https://github.com/Jordan-Giltien/creation_potfolio))
+* Création d'un dashboard pour la prospection d'installation de bornes électriques ([lien ici](https://github.com/Jordan-Giltien/Veille_bornes/tree/main))
 
 
